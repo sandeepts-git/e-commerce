@@ -1,0 +1,4 @@
+.mobilelist_img:hover{
+transform: scale(1.06);
+transition: ease-out 1s;
+}
